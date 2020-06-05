@@ -41,3 +41,21 @@ Now you can run
 Next, you need to enable `usb debugging` and `install via USB` in the device developer options.
 
 Connect you device in Android studio via `Tools/Troubleshoot device connection` and run this app.
+
+### Features
+
+For unlogged user:
+- registration;
+- authorization;
+- password recovery;
+
+For user:
+- cleaner/my order list;
+- add order;
+- balance display.
+
+For admin:
+- user/cleaner/all order/my order list;
+- create/edit cleaner;
+- change status order;
+- balance display.
